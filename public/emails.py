@@ -16,8 +16,8 @@ def find_new_file(dir):
     print('完整文件路径：', file)
     return file
 def mails(file,attach_xlsx):
-    my_sender='2229223201@qq.com'    # 发件人邮箱账号
-    my_pass = 'bjnkflkmuuizebhc'              # 发件人邮箱密码(当时申请smtp给的口令)
+    my_sender='---------'    # 发件人邮箱账号
+    my_pass = '------------'              # 发件人邮箱密码(当时申请smtp给的口令)
     my_user='395122991@qq.com'      # 收件人邮箱账号，我这边发送给自己
     msg = email.mime.multipart.MIMEMultipart()  # 生成包含多个邮件体的对象
     msg['From']=formataddr(["发件人昵称",my_sender])  # 括号里的对应发件人邮箱昵称、发件人邮箱账号
