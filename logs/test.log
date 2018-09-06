@@ -1,0 +1,10 @@
+2018-09-06 23:04:37,923 log.py [line:28] INFO: 打开测试用例!
+2018-09-06 23:04:37,929 log.py [line:28] INFO: 输入参数：url:http://www.tuling123.com/openapi/api,key:dfeb1cc8125943d29764a2f2f5c33739,参数:{'password':'1222'},请求方式：POST_FORM
+2018-09-06 23:04:38,142 log.py [line:28] INFO: 结果返回码200
+2018-09-06 23:04:38,150 log.py [line:28] INFO: 输入参数：url:http://www.tuling123.com/openapi/api
+,key:dfeb1cc8125943d29764a2f2f5c33739,参数:{'password':'1222'},请求方式：POST_JSON
+2018-09-06 23:04:38,341 log.py [line:28] INFO: 结果返回码200
+2018-09-06 23:04:38,354 log.py [line:28] INFO: 输入参数：url:https://api.douban.com/v2/photo/:id,key:dfeb1cc8125943d29764a2f2f5c33739,参数:{'password':'1222'},请求方式：GET
+2018-09-06 23:04:38,471 log.py [line:28] INFO: 结果返回码404
+2018-09-06 23:04:38,474 log.py [line:28] INFO: 输入参数：url:https://api.douban.com/v2/photo/:id,key:dfeb1cc8125943d29764a2f2f5c33739,参数:{'password':'1222'},请求方式：POST
+2018-09-06 23:04:38,478 log.py [line:28] INFO: 输入参数：url:https://api.douban.com/v2/photo/:id,key:dfeb1cc8125943d29764a2f2f5c33739,参数:{'password':'1222'},请求方式：
